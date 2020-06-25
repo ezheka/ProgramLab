@@ -15,8 +15,8 @@ namespace Observers.Main
         {
             InitSingleton();
 
-            Component[] _publishersM = FindObjectsOfType(typeof(Component)) as Component[];
-            List<Component> _publishers = _publishersM.ToList();
+            Publisher[] _publishersM = FindObjectsOfType(typeof(Publisher)) as Publisher[];
+            List<Publisher> _publishers = _publishersM.ToList();
 
             Debug.Log("Количество Publisher на сцене = "+_publishers.Count);
         }
