@@ -3,4 +3,4 @@
 Тестовое задание для ООО "ПрограмЛаб"
 ***
 Для преключения между проетами в решение нужно изменить **начальный проект**
-![screenshot](github.com/ezheka/ProgramLab/NapoleonIT.jpg)
+![screenshot](https://github.com/ezheka/ProgramLab/blob/master/NapoleonIT.jpg)
